@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvr_input_test_2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Github\\ACS_3\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SteamVR_Input_test_2 [Testing]"
+        }
+      }
+    }
+  ]
+}

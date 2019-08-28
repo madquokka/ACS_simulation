@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 5d46f78e65c904bfc98c296022dbd813
+timeCreated: 1464479759
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bolts_rear
+    100002: dynamos
+    100004: frame_poles
+    100006: fuel_hose
+    100008: fuel_pipes
+    100010: inner_fan
+    100012: main_fan_blades
+    100014: main_frame
+    100016: main_pipes
+    100018: //RootNode
+    100020: nose
+    100022: nozzle_cage
+    100024: nozzles
+    100026: Pipes_rear
+    400000: bolts_rear
+    400002: dynamos
+    400004: frame_poles
+    400006: fuel_hose
+    400008: fuel_pipes
+    400010: inner_fan
+    400012: main_fan_blades
+    400014: main_frame
+    400016: main_pipes
+    400018: //RootNode
+    400020: nose
+    400022: nozzle_cage
+    400024: nozzles
+    400026: Pipes_rear
+    2300000: bolts_rear
+    2300002: dynamos
+    2300004: frame_poles
+    2300006: fuel_hose
+    2300008: fuel_pipes
+    2300010: inner_fan
+    2300012: main_fan_blades
+    2300014: main_frame
+    2300016: main_pipes
+    2300018: nose
+    2300020: nozzle_cage
+    2300022: nozzles
+    2300024: Pipes_rear
+    3300000: bolts_rear
+    3300002: dynamos
+    3300004: frame_poles
+    3300006: fuel_hose
+    3300008: fuel_pipes
+    3300010: inner_fan
+    3300012: main_fan_blades
+    3300014: main_frame
+    3300016: main_pipes
+    3300018: nose
+    3300020: nozzle_cage
+    3300022: nozzles
+    3300024: Pipes_rear
+    4300000: main_frame
+    4300002: frame_poles
+    4300004: main_fan_blades
+    4300006: inner_fan
+    4300008: nose
+    4300010: fuel_hose
+    4300012: fuel_pipes
+    4300014: dynamos
+    4300016: main_pipes
+    4300018: Pipes_rear
+    4300020: bolts_rear
+    4300022: nozzles
+    4300024: nozzle_cage
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,104 @@
+#
+# Wavefront material file: v:\dropbox\turbo squid\landmarks2\kltower\kltower.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 05/30/2014 09:09:50
+#
+# Bounding box of geometry = (-4000,-50,-3750) to (4000,38632.5,4250).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl antenna
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.614902 0.614902 0.614902
+	Ks 0.768627 0.768627 0.768627
+	Ka 0.230588 0.230588 0.230588
+
+newmtl antenna2
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.235294 0.266667 0.298039
+	Ks 0.294118 0.333333 0.372549
+	Ka 0.0882353 0.1 0.111765
+
+newmtl base
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.407843 0.40344 0.398247
+	Ks 0 0 0
+	Ka 0.152941 0.15129 0.149343
+
+newmtl frame
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.269132 0.212669 0.269804
+	Ks 0.336415 0.265836 0.337255
+	Ka 0.100924 0.0797509 0.101176
+
+newmtl glass
+	Ns 300
+	d 0.5
+	illum 2
+	Kd 0.080956 0.100471 0.115294
+	Ks 0.188897 0.234433 0.26902
+	Ka 0.080956 0.100471 0.115294
+
+newmtl glass2
+	Ns 300
+	d 0.5
+	illum 2
+	Kd 0.080956 0.100471 0.115294
+	Ks 0.188897 0.234433 0.26902
+	Ka 0.080956 0.100471 0.115294
+
+newmtl light_ball
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.793726 0.784314 0.76549
+	Ks 0.496078 0.490196 0.478431
+	Ka 0.297647 0.294118 0.287059
+
+newmtl pagolas
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.501961 0.501961 0.501961
+	Ks 0.627451 0.627451 0.627451
+	Ka 0.188235 0.188235 0.188235
+
+newmtl roof_slab
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0 0 0
+	Ka 0.24 0.24 0.24
+
+newmtl wall
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.652549 0.649636 0.608852
+	Ks 0 0 0
+	Ka 0.244706 0.243613 0.228319
+
+newmtl wall2
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.536471 0.481772 0.528105
+	Ks 0 0 0
+	Ka 0.201176 0.180664 0.198039
+
